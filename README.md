@@ -1,2 +1,2 @@
-# rappi-rfc-verify-app
+# rappi-rfc-verify
 Created with CodeSandbox
